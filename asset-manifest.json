@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/CodeX/static/css/main.fa324a36.css",
-    "main.js": "/CodeX/static/js/main.2e3f08f2.js",
+    "main.js": "/CodeX/static/js/main.8a495f98.js",
     "static/media/light-bulb.png": "/CodeX/static/media/light-bulb.7fdcbc1d272016acf740.png",
     "static/media/feather-pen.png": "/CodeX/static/media/feather-pen.7e6e419f331a192c90ee.png",
     "index.html": "/CodeX/index.html",
     "main.fa324a36.css.map": "/CodeX/static/css/main.fa324a36.css.map",
-    "main.2e3f08f2.js.map": "/CodeX/static/js/main.2e3f08f2.js.map"
+    "main.8a495f98.js.map": "/CodeX/static/js/main.8a495f98.js.map"
   },
   "entrypoints": [
     "static/css/main.fa324a36.css",
-    "static/js/main.2e3f08f2.js"
+    "static/js/main.8a495f98.js"
   ]
 }
