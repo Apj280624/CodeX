@@ -17,6 +17,7 @@ function Footer() {
           <Link to={routes.INTERVIEW_EXPERIENCES} className="footer-tab">
             Interview Experiences
           </Link>
+
           <p className="copyright-tab">
             {vars.brandName} © {new Date().getFullYear()}
           </p>

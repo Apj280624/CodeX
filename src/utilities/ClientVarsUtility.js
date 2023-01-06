@@ -1,6 +1,7 @@
 // const SERVER_ORIGIN = "http://localhost:4000";
 
-const SERVER_ORIGIN = "https://codex-server-heroku.herokuapp.com";
+// const SERVER_ORIGIN = "https://codex-server-heroku.herokuapp.com";
+const SERVER_ORIGIN = "https://server-lry4.onrender.com";
 
 // vars
 
